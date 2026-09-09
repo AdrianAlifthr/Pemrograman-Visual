@@ -1,0 +1,17 @@
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\peremuan4 Pengulangan\bin\Debug\net10.0-windows\peremuan4 Pengulangan.exe
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\peremuan4 Pengulangan\bin\Debug\net10.0-windows\peremuan4 Pengulangan.deps.json
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\peremuan4 Pengulangan\bin\Debug\net10.0-windows\peremuan4 Pengulangan.runtimeconfig.json
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\peremuan4 Pengulangan\bin\Debug\net10.0-windows\peremuan4 Pengulangan.dll
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\peremuan4 Pengulangan\bin\Debug\net10.0-windows\peremuan4 Pengulangan.pdb
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\peremuan4 Pengulangan\obj\Debug\net10.0-windows\peremuan4_Pengulangan.FrmPerulangan.resources
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\peremuan4 Pengulangan\obj\Debug\net10.0-windows\peremuan4 Pengulangan.vbproj.GenerateResource.cache
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\peremuan4 Pengulangan\obj\Debug\net10.0-windows\peremuan4 Pengulangan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\peremuan4 Pengulangan\obj\Debug\net10.0-windows\peremuan4 Pengulangan.AssemblyInfoInputs.cache
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\peremuan4 Pengulangan\obj\Debug\net10.0-windows\peremuan4 Pengulangan.AssemblyInfo.vb
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\peremuan4 Pengulangan\obj\Debug\net10.0-windows\peremuan4 Pengulangan.vbproj.CoreCompileInputs.cache
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\peremuan4 Pengulangan\obj\Debug\net10.0-windows\peremuan4 Pengulangan.sourcelink.json
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\peremuan4 Pengulangan\obj\Debug\net10.0-windows\peremuan4 Pengulangan.dll
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\peremuan4 Pengulangan\obj\Debug\net10.0-windows\refint\peremuan4 Pengulangan.dll
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\peremuan4 Pengulangan\obj\Debug\net10.0-windows\peremuan4 Pengulangan.pdb
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\peremuan4 Pengulangan\obj\Debug\net10.0-windows\peremuan4 Pengulangan.genruntimeconfig.cache
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\peremuan4 Pengulangan\obj\Debug\net10.0-windows\ref\peremuan4 Pengulangan.dll

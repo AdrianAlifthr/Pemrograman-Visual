@@ -1,0 +1,17 @@
+C:\Users\Administrator\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Pertemuan3 xx\Pertemuan3-Operator-Struktur_Kendali\bin\Debug\net10.0-windows\Pertemuan3-Operator-Struktur_Kendali.exe
+C:\Users\Administrator\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Pertemuan3 xx\Pertemuan3-Operator-Struktur_Kendali\bin\Debug\net10.0-windows\Pertemuan3-Operator-Struktur_Kendali.deps.json
+C:\Users\Administrator\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Pertemuan3 xx\Pertemuan3-Operator-Struktur_Kendali\bin\Debug\net10.0-windows\Pertemuan3-Operator-Struktur_Kendali.runtimeconfig.json
+C:\Users\Administrator\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Pertemuan3 xx\Pertemuan3-Operator-Struktur_Kendali\bin\Debug\net10.0-windows\Pertemuan3-Operator-Struktur_Kendali.dll
+C:\Users\Administrator\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Pertemuan3 xx\Pertemuan3-Operator-Struktur_Kendali\bin\Debug\net10.0-windows\Pertemuan3-Operator-Struktur_Kendali.pdb
+C:\Users\Administrator\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Pertemuan3 xx\Pertemuan3-Operator-Struktur_Kendali\obj\Debug\net10.0-windows\Pertemuan3_Operator_Struktur_Kendali.Form1.resources
+C:\Users\Administrator\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Pertemuan3 xx\Pertemuan3-Operator-Struktur_Kendali\obj\Debug\net10.0-windows\Pertemuan3-Operator-Struktur_Kendali.vbproj.GenerateResource.cache
+C:\Users\Administrator\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Pertemuan3 xx\Pertemuan3-Operator-Struktur_Kendali\obj\Debug\net10.0-windows\Pertemuan3-Operator-Struktur_Kendali.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Pertemuan3 xx\Pertemuan3-Operator-Struktur_Kendali\obj\Debug\net10.0-windows\Pertemuan3-Operator-Struktur_Kendali.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Pertemuan3 xx\Pertemuan3-Operator-Struktur_Kendali\obj\Debug\net10.0-windows\Pertemuan3-Operator-Struktur_Kendali.AssemblyInfo.vb
+C:\Users\Administrator\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Pertemuan3 xx\Pertemuan3-Operator-Struktur_Kendali\obj\Debug\net10.0-windows\Pertemuan3-Operator-Struktur_Kendali.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Pertemuan3 xx\Pertemuan3-Operator-Struktur_Kendali\obj\Debug\net10.0-windows\Pertemuan3-Operator-Struktur_Kendali.dll
+C:\Users\Administrator\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Pertemuan3 xx\Pertemuan3-Operator-Struktur_Kendali\obj\Debug\net10.0-windows\refint\Pertemuan3-Operator-Struktur_Kendali.dll
+C:\Users\Administrator\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Pertemuan3 xx\Pertemuan3-Operator-Struktur_Kendali\obj\Debug\net10.0-windows\Pertemuan3-Operator-Struktur_Kendali.pdb
+C:\Users\Administrator\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Pertemuan3 xx\Pertemuan3-Operator-Struktur_Kendali\obj\Debug\net10.0-windows\Pertemuan3-Operator-Struktur_Kendali.genruntimeconfig.cache
+C:\Users\Administrator\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Pertemuan3 xx\Pertemuan3-Operator-Struktur_Kendali\obj\Debug\net10.0-windows\ref\Pertemuan3-Operator-Struktur_Kendali.dll
+C:\Users\Administrator\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Pertemuan3 xx\Pertemuan3-Operator-Struktur_Kendali\bin\Debug\net10.0-windows\Assets\Asset1.gif

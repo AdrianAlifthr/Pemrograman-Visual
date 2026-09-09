@@ -1,0 +1,20 @@
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Tugas 1 Adrian\bin\Debug\net10.0-windows\Tugas 1 Adrian.exe
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Tugas 1 Adrian\bin\Debug\net10.0-windows\Tugas 1 Adrian.deps.json
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Tugas 1 Adrian\bin\Debug\net10.0-windows\Tugas 1 Adrian.runtimeconfig.json
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Tugas 1 Adrian\bin\Debug\net10.0-windows\Tugas 1 Adrian.dll
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Tugas 1 Adrian\bin\Debug\net10.0-windows\Tugas 1 Adrian.pdb
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Tugas 1 Adrian\obj\Debug\net10.0-windows\Tugas_1_Adrian.Form1.resources
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Tugas 1 Adrian\obj\Debug\net10.0-windows\Tugas_1_Adrian.Form2.resources
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Tugas 1 Adrian\obj\Debug\net10.0-windows\Tugas 1 Adrian.vbproj.GenerateResource.cache
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Tugas 1 Adrian\obj\Debug\net10.0-windows\Tugas 1 Adrian.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Tugas 1 Adrian\obj\Debug\net10.0-windows\Tugas 1 Adrian.AssemblyInfoInputs.cache
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Tugas 1 Adrian\obj\Debug\net10.0-windows\Tugas 1 Adrian.AssemblyInfo.vb
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Tugas 1 Adrian\obj\Debug\net10.0-windows\Tugas 1 Adrian.vbproj.CoreCompileInputs.cache
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Tugas 1 Adrian\obj\Debug\net10.0-windows\Tugas 1 Adrian.sourcelink.json
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Tugas 1 Adrian\obj\Debug\net10.0-windows\Tugas 1 Adrian.dll
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Tugas 1 Adrian\obj\Debug\net10.0-windows\refint\Tugas 1 Adrian.dll
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Tugas 1 Adrian\obj\Debug\net10.0-windows\Tugas 1 Adrian.pdb
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Tugas 1 Adrian\obj\Debug\net10.0-windows\Tugas 1 Adrian.genruntimeconfig.cache
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Tugas 1 Adrian\obj\Debug\net10.0-windows\ref\Tugas 1 Adrian.dll
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Tugas 1 Adrian\bin\Debug\net10.0-windows\Assets\Manager.jpeg
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Tugas 1 Adrian\bin\Debug\net10.0-windows\Assets\Staff.jpeg

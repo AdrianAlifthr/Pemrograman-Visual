@@ -1,0 +1,23 @@
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Latihan 1\bin\Debug\net10.0-windows\Latihan 1.exe
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Latihan 1\bin\Debug\net10.0-windows\Latihan 1.deps.json
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Latihan 1\bin\Debug\net10.0-windows\Latihan 1.runtimeconfig.json
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Latihan 1\bin\Debug\net10.0-windows\Latihan 1.dll
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Latihan 1\bin\Debug\net10.0-windows\Latihan 1.pdb
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Latihan 1\obj\Debug\net10.0-windows\Latihan_1.Form1.resources
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Latihan 1\obj\Debug\net10.0-windows\Latihan_1.FormProfile.resources
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Latihan 1\obj\Debug\net10.0-windows\Latihan_1.Resources.resources
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Latihan 1\obj\Debug\net10.0-windows\Latihan 1.vbproj.GenerateResource.cache
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Latihan 1\obj\Debug\net10.0-windows\Latihan 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Latihan 1\obj\Debug\net10.0-windows\Latihan 1.AssemblyInfoInputs.cache
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Latihan 1\obj\Debug\net10.0-windows\Latihan 1.AssemblyInfo.vb
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Latihan 1\obj\Debug\net10.0-windows\Latihan 1.vbproj.CoreCompileInputs.cache
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Latihan 1\obj\Debug\net10.0-windows\Latihan 1.sourcelink.json
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Latihan 1\obj\Debug\net10.0-windows\Latihan 1.dll
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Latihan 1\obj\Debug\net10.0-windows\refint\Latihan 1.dll
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Latihan 1\obj\Debug\net10.0-windows\Latihan 1.pdb
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Latihan 1\obj\Debug\net10.0-windows\Latihan 1.genruntimeconfig.cache
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Latihan 1\obj\Debug\net10.0-windows\ref\Latihan 1.dll
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Latihan 1\bin\Debug\net10.0-windows\Assets\gryffindor.png
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Latihan 1\bin\Debug\net10.0-windows\Assets\hufflepuff.png
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Latihan 1\bin\Debug\net10.0-windows\Assets\ravenclaw.png
+D:\Users\Administrator\OneDrive\Documents\KULIAH SEM 5\Praktikum Pemrogramman Visual\Latihan 1\bin\Debug\net10.0-windows\Assets\slytherin.png
