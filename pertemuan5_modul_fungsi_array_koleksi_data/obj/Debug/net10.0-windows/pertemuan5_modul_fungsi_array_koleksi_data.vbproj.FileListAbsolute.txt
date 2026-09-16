@@ -1,0 +1,17 @@
+C:\Users\elren\Desktop\praktikum-pemrograman-visual\pertemuan5_modul_fungsi_array_koleksi_data\bin\Debug\net10.0-windows\pertemuan5_modul_fungsi_array_koleksi_data.exe
+C:\Users\elren\Desktop\praktikum-pemrograman-visual\pertemuan5_modul_fungsi_array_koleksi_data\bin\Debug\net10.0-windows\pertemuan5_modul_fungsi_array_koleksi_data.deps.json
+C:\Users\elren\Desktop\praktikum-pemrograman-visual\pertemuan5_modul_fungsi_array_koleksi_data\bin\Debug\net10.0-windows\pertemuan5_modul_fungsi_array_koleksi_data.runtimeconfig.json
+C:\Users\elren\Desktop\praktikum-pemrograman-visual\pertemuan5_modul_fungsi_array_koleksi_data\bin\Debug\net10.0-windows\pertemuan5_modul_fungsi_array_koleksi_data.dll
+C:\Users\elren\Desktop\praktikum-pemrograman-visual\pertemuan5_modul_fungsi_array_koleksi_data\bin\Debug\net10.0-windows\pertemuan5_modul_fungsi_array_koleksi_data.pdb
+C:\Users\elren\Desktop\praktikum-pemrograman-visual\pertemuan5_modul_fungsi_array_koleksi_data\obj\Debug\net10.0-windows\pertemuan5_modul_fungsi_array_koleksi_data.FormArray.resources
+C:\Users\elren\Desktop\praktikum-pemrograman-visual\pertemuan5_modul_fungsi_array_koleksi_data\obj\Debug\net10.0-windows\pertemuan5_modul_fungsi_array_koleksi_data.vbproj.GenerateResource.cache
+C:\Users\elren\Desktop\praktikum-pemrograman-visual\pertemuan5_modul_fungsi_array_koleksi_data\obj\Debug\net10.0-windows\pertemuan5_modul_fungsi_array_koleksi_data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elren\Desktop\praktikum-pemrograman-visual\pertemuan5_modul_fungsi_array_koleksi_data\obj\Debug\net10.0-windows\pertemuan5_modul_fungsi_array_koleksi_data.AssemblyInfoInputs.cache
+C:\Users\elren\Desktop\praktikum-pemrograman-visual\pertemuan5_modul_fungsi_array_koleksi_data\obj\Debug\net10.0-windows\pertemuan5_modul_fungsi_array_koleksi_data.AssemblyInfo.vb
+C:\Users\elren\Desktop\praktikum-pemrograman-visual\pertemuan5_modul_fungsi_array_koleksi_data\obj\Debug\net10.0-windows\pertemuan5_modul_fungsi_array_koleksi_data.vbproj.CoreCompileInputs.cache
+C:\Users\elren\Desktop\praktikum-pemrograman-visual\pertemuan5_modul_fungsi_array_koleksi_data\obj\Debug\net10.0-windows\pertemuan5_modul_fungsi_array_koleksi_data.sourcelink.json
+C:\Users\elren\Desktop\praktikum-pemrograman-visual\pertemuan5_modul_fungsi_array_koleksi_data\obj\Debug\net10.0-windows\pertemuan5_modul_fungsi_array_koleksi_data.dll
+C:\Users\elren\Desktop\praktikum-pemrograman-visual\pertemuan5_modul_fungsi_array_koleksi_data\obj\Debug\net10.0-windows\refint\pertemuan5_modul_fungsi_array_koleksi_data.dll
+C:\Users\elren\Desktop\praktikum-pemrograman-visual\pertemuan5_modul_fungsi_array_koleksi_data\obj\Debug\net10.0-windows\pertemuan5_modul_fungsi_array_koleksi_data.pdb
+C:\Users\elren\Desktop\praktikum-pemrograman-visual\pertemuan5_modul_fungsi_array_koleksi_data\obj\Debug\net10.0-windows\pertemuan5_modul_fungsi_array_koleksi_data.genruntimeconfig.cache
+C:\Users\elren\Desktop\praktikum-pemrograman-visual\pertemuan5_modul_fungsi_array_koleksi_data\obj\Debug\net10.0-windows\ref\pertemuan5_modul_fungsi_array_koleksi_data.dll
