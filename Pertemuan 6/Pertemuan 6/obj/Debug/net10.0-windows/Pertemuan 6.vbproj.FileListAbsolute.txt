@@ -1,0 +1,32 @@
+D:\Visual Studio\Repo\Vispro\Pertemuan 5\Pertemuan 6\Pertemuan 6\bin\Debug\net10.0-windows\appsettings.json
+D:\Visual Studio\Repo\Vispro\Pertemuan 5\Pertemuan 6\Pertemuan 6\bin\Debug\net10.0-windows\Pertemuan 6.exe
+D:\Visual Studio\Repo\Vispro\Pertemuan 5\Pertemuan 6\Pertemuan 6\bin\Debug\net10.0-windows\Pertemuan 6.deps.json
+D:\Visual Studio\Repo\Vispro\Pertemuan 5\Pertemuan 6\Pertemuan 6\bin\Debug\net10.0-windows\Pertemuan 6.runtimeconfig.json
+D:\Visual Studio\Repo\Vispro\Pertemuan 5\Pertemuan 6\Pertemuan 6\bin\Debug\net10.0-windows\Pertemuan 6.dll
+D:\Visual Studio\Repo\Vispro\Pertemuan 5\Pertemuan 6\Pertemuan 6\bin\Debug\net10.0-windows\Pertemuan 6.pdb
+D:\Visual Studio\Repo\Vispro\Pertemuan 5\Pertemuan 6\Pertemuan 6\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Visual Studio\Repo\Vispro\Pertemuan 5\Pertemuan 6\Pertemuan 6\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Visual Studio\Repo\Vispro\Pertemuan 5\Pertemuan 6\Pertemuan 6\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Visual Studio\Repo\Vispro\Pertemuan 5\Pertemuan 6\Pertemuan 6\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Visual Studio\Repo\Vispro\Pertemuan 5\Pertemuan 6\Pertemuan 6\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Visual Studio\Repo\Vispro\Pertemuan 5\Pertemuan 6\Pertemuan 6\bin\Debug\net10.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Visual Studio\Repo\Vispro\Pertemuan 5\Pertemuan 6\Pertemuan 6\bin\Debug\net10.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Visual Studio\Repo\Vispro\Pertemuan 5\Pertemuan 6\Pertemuan 6\bin\Debug\net10.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Visual Studio\Repo\Vispro\Pertemuan 5\Pertemuan 6\Pertemuan 6\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Visual Studio\Repo\Vispro\Pertemuan 5\Pertemuan 6\Pertemuan 6\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Visual Studio\Repo\Vispro\Pertemuan 5\Pertemuan 6\Pertemuan 6\bin\Debug\net10.0-windows\Npgsql.dll
+D:\Visual Studio\Repo\Vispro\Pertemuan 5\Pertemuan 6\Pertemuan 6\obj\Debug\net10.0-windows\Pertemuan 6.vbproj.AssemblyReference.cache
+D:\Visual Studio\Repo\Vispro\Pertemuan 5\Pertemuan 6\Pertemuan 6\obj\Debug\net10.0-windows\Pertemuan_6.Form1.resources
+D:\Visual Studio\Repo\Vispro\Pertemuan 5\Pertemuan 6\Pertemuan 6\obj\Debug\net10.0-windows\Pertemuan 6.vbproj.GenerateResource.cache
+D:\Visual Studio\Repo\Vispro\Pertemuan 5\Pertemuan 6\Pertemuan 6\obj\Debug\net10.0-windows\Pertemuan 6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Repo\Vispro\Pertemuan 5\Pertemuan 6\Pertemuan 6\obj\Debug\net10.0-windows\Pertemuan 6.AssemblyInfoInputs.cache
+D:\Visual Studio\Repo\Vispro\Pertemuan 5\Pertemuan 6\Pertemuan 6\obj\Debug\net10.0-windows\Pertemuan 6.AssemblyInfo.vb
+D:\Visual Studio\Repo\Vispro\Pertemuan 5\Pertemuan 6\Pertemuan 6\obj\Debug\net10.0-windows\Pertemuan 6.vbproj.CoreCompileInputs.cache
+D:\Visual Studio\Repo\Vispro\Pertemuan 5\Pertemuan 6\Pertemuan 6\obj\Debug\net10.0-windows\Pertemuan 6.sourcelink.json
+D:\Visual Studio\Repo\Vispro\Pertemuan 5\Pertemuan 6\Pertemuan 6\obj\Debug\net10.0-windows\Pertemua.4D2B2197.Up2Date
+D:\Visual Studio\Repo\Vispro\Pertemuan 5\Pertemuan 6\Pertemuan 6\obj\Debug\net10.0-windows\Pertemuan 6.dll
+D:\Visual Studio\Repo\Vispro\Pertemuan 5\Pertemuan 6\Pertemuan 6\obj\Debug\net10.0-windows\refint\Pertemuan 6.dll
+D:\Visual Studio\Repo\Vispro\Pertemuan 5\Pertemuan 6\Pertemuan 6\obj\Debug\net10.0-windows\Pertemuan 6.pdb
+D:\Visual Studio\Repo\Vispro\Pertemuan 5\Pertemuan 6\Pertemuan 6\obj\Debug\net10.0-windows\Pertemuan 6.genruntimeconfig.cache
+D:\Visual Studio\Repo\Vispro\Pertemuan 5\Pertemuan 6\Pertemuan 6\obj\Debug\net10.0-windows\ref\Pertemuan 6.dll
+D:\Visual Studio\Repo\Vispro\Pertemuan 5\Pertemuan 6\Pertemuan 6\obj\Debug\net10.0-windows\Pertemuan_6.FormMahasiswa.resources

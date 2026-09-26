@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Studio\\Repo\\Vispro\\Pertemuan 5\\Pertemuan 6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E25E33-8D56-46AD-B2B1-32EBD9FF59EE}|Pertemuan 6\\Pertemuan 6.vbproj|d:\\visual studio\\repo\\vispro\\pertemuan 5\\pertemuan 6\\pertemuan 6\\formmahasiswa.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F9E25E33-8D56-46AD-B2B1-32EBD9FF59EE}|Pertemuan 6\\Pertemuan 6.vbproj|solutionrelative:pertemuan 6\\formmahasiswa.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E25E33-8D56-46AD-B2B1-32EBD9FF59EE}|Pertemuan 6\\Pertemuan 6.vbproj|d:\\visual studio\\repo\\vispro\\pertemuan 5\\pertemuan 6\\pertemuan 6\\my project\\application.myapp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F9E25E33-8D56-46AD-B2B1-32EBD9FF59EE}|Pertemuan 6\\Pertemuan 6.vbproj|solutionrelative:pertemuan 6\\my project\\application.myapp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E25E33-8D56-46AD-B2B1-32EBD9FF59EE}|Pertemuan 6\\Pertemuan 6.vbproj|d:\\visual studio\\repo\\vispro\\pertemuan 5\\pertemuan 6\\pertemuan 6\\pertemuan 6.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F9E25E33-8D56-46AD-B2B1-32EBD9FF59EE}|Pertemuan 6\\Pertemuan 6.vbproj|solutionrelative:pertemuan 6\\pertemuan 6.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E25E33-8D56-46AD-B2B1-32EBD9FF59EE}|Pertemuan 6\\Pertemuan 6.vbproj|d:\\visual studio\\repo\\vispro\\pertemuan 5\\pertemuan 6\\pertemuan 6\\pertemuan 6.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F9E25E33-8D56-46AD-B2B1-32EBD9FF59EE}|Pertemuan 6\\Pertemuan 6.vbproj|solutionrelative:pertemuan 6\\pertemuan 6.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E25E33-8D56-46AD-B2B1-32EBD9FF59EE}|Pertemuan 6\\Pertemuan 6.vbproj|d:\\visual studio\\repo\\vispro\\pertemuan 5\\pertemuan 6\\pertemuan 6\\formmahasiswa.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F9E25E33-8D56-46AD-B2B1-32EBD9FF59EE}|Pertemuan 6\\Pertemuan 6.vbproj|solutionrelative:pertemuan 6\\formmahasiswa.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E25E33-8D56-46AD-B2B1-32EBD9FF59EE}|Pertemuan 6\\Pertemuan 6.vbproj|d:\\visual studio\\repo\\vispro\\pertemuan 5\\pertemuan 6\\pertemuan 6\\modquery.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F9E25E33-8D56-46AD-B2B1-32EBD9FF59EE}|Pertemuan 6\\Pertemuan 6.vbproj|solutionrelative:pertemuan 6\\modquery.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E25E33-8D56-46AD-B2B1-32EBD9FF59EE}|Pertemuan 6\\Pertemuan 6.vbproj|d:\\visual studio\\repo\\vispro\\pertemuan 5\\pertemuan 6\\pertemuan 6\\modfunction.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F9E25E33-8D56-46AD-B2B1-32EBD9FF59EE}|Pertemuan 6\\Pertemuan 6.vbproj|solutionrelative:pertemuan 6\\modfunction.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E25E33-8D56-46AD-B2B1-32EBD9FF59EE}|Pertemuan 6\\Pertemuan 6.vbproj|d:\\visual studio\\repo\\vispro\\pertemuan 5\\pertemuan 6\\pertemuan 6\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F9E25E33-8D56-46AD-B2B1-32EBD9FF59EE}|Pertemuan 6\\Pertemuan 6.vbproj|solutionrelative:pertemuan 6\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E25E33-8D56-46AD-B2B1-32EBD9FF59EE}|Pertemuan 6\\Pertemuan 6.vbproj|d:\\visual studio\\repo\\vispro\\pertemuan 5\\pertemuan 6\\pertemuan 6\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F9E25E33-8D56-46AD-B2B1-32EBD9FF59EE}|Pertemuan 6\\Pertemuan 6.vbproj|solutionrelative:pertemuan 6\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E25E33-8D56-46AD-B2B1-32EBD9FF59EE}|Pertemuan 6\\Pertemuan 6.vbproj|d:\\visual studio\\repo\\vispro\\pertemuan 5\\pertemuan 6\\pertemuan 6\\moddatabase.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F9E25E33-8D56-46AD-B2B1-32EBD9FF59EE}|Pertemuan 6\\Pertemuan 6.vbproj|solutionrelative:pertemuan 6\\moddatabase.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E25E33-8D56-46AD-B2B1-32EBD9FF59EE}|Pertemuan 6\\Pertemuan 6.vbproj|d:\\visual studio\\repo\\vispro\\pertemuan 5\\pertemuan 6\\pertemuan 6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F9E25E33-8D56-46AD-B2B1-32EBD9FF59EE}|Pertemuan 6\\Pertemuan 6.vbproj|solutionrelative:pertemuan 6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Application.myapp",
+              "DocumentMoniker": "D:\\Visual Studio\\Repo\\Vispro\\Pertemuan 5\\Pertemuan 6\\Pertemuan 6\\My Project\\Application.myapp",
+              "RelativeDocumentMoniker": "Pertemuan 6\\My Project\\Application.myapp",
+              "ToolTip": "D:\\Visual Studio\\Repo\\Vispro\\Pertemuan 5\\Pertemuan 6\\Pertemuan 6\\My Project\\Application.myapp",
+              "RelativeToolTip": "Pertemuan 6\\My Project\\Application.myapp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-23T05:03:04.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pertemuan 6",
+              "DocumentMoniker": "D:\\Visual Studio\\Repo\\Vispro\\Pertemuan 5\\Pertemuan 6\\Pertemuan 6\\Pertemuan 6.vbproj",
+              "RelativeDocumentMoniker": "Pertemuan 6\\Pertemuan 6.vbproj",
+              "ToolTip": "D:\\Visual Studio\\Repo\\Vispro\\Pertemuan 5\\Pertemuan 6\\Pertemuan 6\\Pertemuan 6.vbproj",
+              "RelativeToolTip": "Pertemuan 6\\Pertemuan 6.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2026-09-23T05:01:46.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pertemuan 6",
+              "DocumentMoniker": "D:\\Visual Studio\\Repo\\Vispro\\Pertemuan 5\\Pertemuan 6\\Pertemuan 6\\Pertemuan 6.vbproj",
+              "RelativeDocumentMoniker": "Pertemuan 6\\Pertemuan 6.vbproj",
+              "ToolTip": "D:\\Visual Studio\\Repo\\Vispro\\Pertemuan 5\\Pertemuan 6\\Pertemuan 6\\Pertemuan 6.vbproj",
+              "RelativeToolTip": "Pertemuan 6\\Pertemuan 6.vbproj",
+              "ViewState": "AgIAAAcAAAAAAAAAAAApwBoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2026-09-23T05:00:02.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormMahasiswa.vb",
+              "DocumentMoniker": "D:\\Visual Studio\\Repo\\Vispro\\Pertemuan 5\\Pertemuan 6\\Pertemuan 6\\FormMahasiswa.vb",
+              "RelativeDocumentMoniker": "Pertemuan 6\\FormMahasiswa.vb",
+              "ToolTip": "D:\\Visual Studio\\Repo\\Vispro\\Pertemuan 5\\Pertemuan 6\\Pertemuan 6\\FormMahasiswa.vb",
+              "RelativeToolTip": "Pertemuan 6\\FormMahasiswa.vb",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-23T04:47:30.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormMahasiswa.vb [Design]",
+              "DocumentMoniker": "D:\\Visual Studio\\Repo\\Vispro\\Pertemuan 5\\Pertemuan 6\\Pertemuan 6\\FormMahasiswa.vb",
+              "RelativeDocumentMoniker": "Pertemuan 6\\FormMahasiswa.vb",
+              "ToolTip": "D:\\Visual Studio\\Repo\\Vispro\\Pertemuan 5\\Pertemuan 6\\Pertemuan 6\\FormMahasiswa.vb [Design]",
+              "RelativeToolTip": "Pertemuan 6\\FormMahasiswa.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-23T04:42:44.963Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ModQuery.vb",
+              "DocumentMoniker": "D:\\Visual Studio\\Repo\\Vispro\\Pertemuan 5\\Pertemuan 6\\Pertemuan 6\\ModQuery.vb",
+              "RelativeDocumentMoniker": "Pertemuan 6\\ModQuery.vb",
+              "ToolTip": "D:\\Visual Studio\\Repo\\Vispro\\Pertemuan 5\\Pertemuan 6\\Pertemuan 6\\ModQuery.vb",
+              "RelativeToolTip": "Pertemuan 6\\ModQuery.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-23T04:37:49.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ModFunction.vb",
+              "DocumentMoniker": "D:\\Visual Studio\\Repo\\Vispro\\Pertemuan 5\\Pertemuan 6\\Pertemuan 6\\ModFunction.vb",
+              "RelativeDocumentMoniker": "Pertemuan 6\\ModFunction.vb",
+              "ToolTip": "D:\\Visual Studio\\Repo\\Vispro\\Pertemuan 5\\Pertemuan 6\\Pertemuan 6\\ModFunction.vb",
+              "RelativeToolTip": "Pertemuan 6\\ModFunction.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-23T04:29:21.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\Visual Studio\\Repo\\Vispro\\Pertemuan 5\\Pertemuan 6\\Pertemuan 6\\Form1.vb",
+              "RelativeDocumentMoniker": "Pertemuan 6\\Form1.vb",
+              "ToolTip": "D:\\Visual Studio\\Repo\\Vispro\\Pertemuan 5\\Pertemuan 6\\Pertemuan 6\\Form1.vb",
+              "RelativeToolTip": "Pertemuan 6\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-23T04:22:42.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ModDatabase.vb",
+              "DocumentMoniker": "D:\\Visual Studio\\Repo\\Vispro\\Pertemuan 5\\Pertemuan 6\\Pertemuan 6\\ModDatabase.vb",
+              "RelativeDocumentMoniker": "Pertemuan 6\\ModDatabase.vb",
+              "ToolTip": "D:\\Visual Studio\\Repo\\Vispro\\Pertemuan 5\\Pertemuan 6\\Pertemuan 6\\ModDatabase.vb",
+              "RelativeToolTip": "Pertemuan 6\\ModDatabase.vb",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-23T04:07:31.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\Visual Studio\\Repo\\Vispro\\Pertemuan 5\\Pertemuan 6\\Pertemuan 6\\Form1.vb",
+              "RelativeDocumentMoniker": "Pertemuan 6\\Form1.vb",
+              "ToolTip": "D:\\Visual Studio\\Repo\\Vispro\\Pertemuan 5\\Pertemuan 6\\Pertemuan 6\\Form1.vb [Design]",
+              "RelativeToolTip": "Pertemuan 6\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-23T03:40:51.737Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Visual Studio\\Repo\\Vispro\\Pertemuan 5\\Pertemuan 6\\Pertemuan 6\\appsettings.json",
+              "RelativeDocumentMoniker": "Pertemuan 6\\appsettings.json",
+              "ToolTip": "D:\\Visual Studio\\Repo\\Vispro\\Pertemuan 5\\Pertemuan 6\\Pertemuan 6\\appsettings.json",
+              "RelativeToolTip": "Pertemuan 6\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-23T03:59:22.084Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
